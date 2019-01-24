@@ -28,3 +28,7 @@ C:\GameOfLife\bin\Release\netcoreapp2.1> dotnet .\GameOfLife.dll 10 10
 -|-|X|X|-|-|-|-|-|-
 -|-|-|-|-|-|-|-|-|-
 ```
+#### Test
+```
+C:\GameOfLife> dotnet test
+```
