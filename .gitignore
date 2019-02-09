@@ -2,3 +2,5 @@ node_modules/
 [Oo]bj/
 [Bb]in/
 .vs/
+__pycache__/
+.vscode/
