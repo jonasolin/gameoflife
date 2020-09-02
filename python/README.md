@@ -17,4 +17,4 @@ python -m unittest
 ```
 
 #### Sample
-<img src="https://github.com/jonasolin/gameoflife/blob/master/python/media/sample.png" alt="drawing" width="300"/>
+<img src="https://github.com/jonasolin/gameoflife/blob/master/python/media/sample.gif" alt="drawing" width="300"/>
